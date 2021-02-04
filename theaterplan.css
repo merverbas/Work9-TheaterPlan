@@ -1,0 +1,32 @@
+body {
+  background-color: #d4edf1;
+}
+
+a.btn {
+  background-color: #4a95eb;
+  color: #fff;
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-top: 10px;
+  -webkit-transition: all 50ms;
+  transition: all 50ms;
+  margin-left: 170px;
+}
+
+a.btn:hover {
+  background-color: #2e2c79;
+}
+
+table {
+  width: 500px;
+  height: 450px;
+  border-collapse: collapse;
+}
+
+table td {
+  text-align: center;
+  border: 1px solid black;
+}
+/*# sourceMappingURL=theaterplan.css.map */
